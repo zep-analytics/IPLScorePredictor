@@ -18,7 +18,7 @@ Used optuna for paramter optimization.
 
 The dataset comprises of over by over details of matches and runs from 2008 to 2020.
 
-Dataset link: https://github.com/Chitwan54/IPL-Score-Prediction/blob/main/ipl_data.csv
+Dataset Used: ipl_data.csv
 
 * mid - match id
 * date - when matches are played
