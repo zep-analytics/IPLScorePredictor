@@ -8,6 +8,7 @@ This Streamlit webapp enables user to predict total runs between teams using cur
 * K-Nearest Neighbor Regressor 
 * XGBoost Regressor
 * RandomForest Regressor
+* SVR
 * Decision Tree Regressor
 
 **Hyperparamter Optimization:**
